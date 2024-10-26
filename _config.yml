@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "TSL Workshop 2025" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/tsl.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/tsl_logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "INFORMS Transportation Science and Logistics Society Workshop 2025 Seoul" # Site description and default description, also used in jekyll-seo-tag
 url: "https://tsl2025.kaist.ac.kr" # Site url, also used in jekyll-seo-tag
 baseurl: ""

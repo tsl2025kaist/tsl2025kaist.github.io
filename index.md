@@ -20,9 +20,13 @@ The 12th INFORMS Transportation Science and Logistics Society Workshop will be h
 
 
 # Workshop Organizing Committee
-- Changhyun Kwon, *KAIST* (General Chair)
-- Jinkyoo Park, *KAIST*
-- Chungmok Lee, *Hankuk University of Foreign Studies*
+- Changhyun Kwon (General Chair) &mdash; KAIST
+- Jinkyoo Park &mdash; KAIST
+- Chungmok Lee &mdash; Hankuk University of Foreign Studies
+
+Questions related to the workshop may be sent to <script type="text/javascript">
+  document.write('<a href="mailto:' + 'chkwon' + '@' + 'kaist' + '.ac.kr">the general chair</a>');
+</script>.
 
 # Sponsors
 

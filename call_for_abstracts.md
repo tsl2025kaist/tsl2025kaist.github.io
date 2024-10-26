@@ -14,9 +14,12 @@ This workshop seeks to highlight innovative research that demonstrates how ML an
 - Development of end-to-end ML approaches to solve traditionally OR-based problems, offering new efficiencies and perspectives.
 - Hybrid models that intertwine ML and OR methods for complex problem-solving, addressing areas where conventional OR or ML alone may fall short.
 - Decision-focused learning frameworks that emphasize optimization-driven learning objectives tailored to real-world logistical applications.
-- LLM interfaces for modeling or solving OR problems.
+- Exact or heuristic optimization algorithms enhanced by ML methods
+- Innovative applications of large language models (LLMs) to transportation and logistics challenges.
 
 # Submission Details
+
+We welcome any applications in the field of transportation science and logistics. Additionally, submissions of other methods and applications that are of traditional interest to INFORMS TSL Society members are encouraged, though priority will be given to abstracts that align with the main theme of the workshop.
 
 Please submit a 2–4 page extended abstract that provides a detailed summary of the research problem, methodology, and key findings or expected contributions. Submissions will be reviewed by a committee of experts, and selections will be based on relevance to the workshop theme, novelty, and potential impact.
 

@@ -30,6 +30,7 @@ The main theme of the workshop is the interplay of machine learning and operatio
 - Changhyun Kwon (General Chair) &mdash; KAIST
 - Jinkyoo Park &mdash; KAIST
 - Chungmok Lee &mdash; Hankuk University of Foreign Studies
+- Sang Won Kim &mdash; KAIST
 
 Questions related to the workshop may be sent to <script type="text/javascript">
   document.write('<a href="mailto:' + 'chkwon' + '@' + 'kaist' + '.ac.kr">' + 'chkwon' + '@' + 'kaist.ac.kr' + '</a>');

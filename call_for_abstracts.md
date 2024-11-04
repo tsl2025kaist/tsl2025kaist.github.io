@@ -2,6 +2,9 @@
 title: Call for Abstracts
 # feature_text: |
 #     ## The interplay of machine learning and operations research for transportation and logistics challenges
+# feature_text: |
+#   <h1 class='tsl_title'>Call for Abstracts</h1>
+feature_image: "/assets/3136.jpg"
 aside: false
 ---
 

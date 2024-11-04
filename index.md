@@ -1,7 +1,7 @@
 ---
 title: Home
 feature_text: |
-  <h1 class='tsl_title'>The 12th INFORMS TSL Workshop 2025</h1>
+  <h1 class='tsl_title'>The INFORMS TSL Workshop 2025</h1>
   <h3 class='tsl_description'>May 19-21, 2025, Seoul, South Korea</h3>
 feature_image: "/assets/seoul2.jpg"
 excerpt: ""

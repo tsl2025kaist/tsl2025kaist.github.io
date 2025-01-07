@@ -38,7 +38,7 @@ All abstracts must be prepared using the provided templates:
 
 # Important Dates
 
-* Abstract submission deadline: January 10, 2025
+* Abstract submission deadline: January 15, 2025
 * Notification of acceptance: February 1, 2025
 * Deadline for early registration: March 1, 2025
 * Workshop: May 19–21, 2025

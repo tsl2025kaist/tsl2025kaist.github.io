@@ -37,3 +37,11 @@ Questions related to the workshop may be sent to the general chair at <script ty
   document.write('<a href="mailto:' + 'chkwon' + '@' + 'kaist' + '.ac.kr">' + 'chkwon' + '@' + 'kaist.ac.kr' + '</a>');
 </script>.
 
+
+
+# Sponsors
+
+<div id="sponsors">
+    <a href="https://omelet.ai" target="_blank"><img src="/assets/sponsors/omelet.png" width="300" alt="Omelet"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.nrf.re.kr/index" target="_blank"><img src="/assets/sponsors/nrf.png" width="300" alt="National Reserach Foundation of Korea"></a>&nbsp;&nbsp;&nbsp;
+</div>

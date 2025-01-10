@@ -8,3 +8,11 @@ h3.tsl_description {
     // text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* Subtle shadow for contrast */
     // -webkit-text-stroke: 1px black; /* Black border line around the text */
 }
+
+
+
+div#sponsors {
+    background-image: none !important; /* Removes the background underline */
+    text-shadow: none !important; /* Removes the text-shadow */
+    background-size: 0 !important; /* Ensures no underline */
+}

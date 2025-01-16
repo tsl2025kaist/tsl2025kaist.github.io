@@ -66,6 +66,7 @@ All abstracts must be prepared using the provided templates:
 - Reem Khir, *Purdue University*, USA
 - Walid Klibi, *Kedge Business School*, France
 - Cagri Koc, *Hacettepe University, Ankara, Türkiye*, Turkey
+- Sadan Kulturel-Konak, *Penn State Berks*, USA
 - Changhyun Kwon, *KAIST*, South Korea
 - Nadia Lahrichi, *Polytechnique Montréal*, Canada
 - Chungmok Lee, *Hankuk University of Foreign Studies*, South Korea

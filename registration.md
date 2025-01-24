@@ -3,7 +3,7 @@ title: Registration
 aside: false
 ---
 
-The registration link will be availale later, hopefully before Feb 15.
+The registration link will be available later, hopefully before Feb 15.
 
 * Early bird registration fee (until March 31, 2025):
   * TSL members: 300 USD

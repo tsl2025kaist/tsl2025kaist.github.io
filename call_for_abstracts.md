@@ -49,6 +49,7 @@ All abstracts must be prepared using the provided templates:
 - Agostinho Agra, *University of Aveiro*, Portugal
 - Sibel Alumur Alev, *University of Waterloo*, Canada
 - Bilge Atasoy, *Delft University of Technology*, The Netherlands
+- Shadi SHarif Azadeh, *Delft University of Technology*, The Netherlands
 - Simon Belieres, *Toulouse Business School*, France
 - Imen Ben Mohamed, *Emlyon business school*, France
 - Maria Elena Bruni, *University of Calabria*, Italy

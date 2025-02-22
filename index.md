@@ -20,7 +20,9 @@ The main theme of the workshop is the interplay of machine learning and operatio
 
 {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %}  -->
 
-{% include button.html text="🌟 Call for Abstracts 🌟" link="/call_for_abstracts" color="#008080" %} 
+<!-- {% include button.html text="🌟 Call for Abstracts 🌟" link="/call_for_abstracts" color="#008080" %}  -->
+
+{% include button.html text="🌟 Registration Now Open 🌟" link="/registration" color="#008080" %} 
 
 
 <!-- 💡 Call for Abstracts 📚 🔊 📣 ✉️ 🌟 -->

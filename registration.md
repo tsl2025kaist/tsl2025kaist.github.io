@@ -3,8 +3,6 @@ title: Registration
 aside: false
 ---
 
-The registration link will be available later, hopefully before Feb 15.
-
 * Early bird registration fee (until March 31, 2025):
   * TSL members: 300 USD
   * non-TSL members: 350 USD
@@ -14,4 +12,7 @@ The registration link will be available later, hopefully before Feb 15.
   * TSL members: 400 USD
   * non-TSL members: 450 USD
   * students: 300 USD
+
+{% include button.html text="🌟 Registration Link 🌟" link="https://myaccount.informs.org/s/community-event?id=a1YVU000004vgg9" color="#008080" %} 
+
 

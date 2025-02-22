@@ -27,20 +27,20 @@ Additionally, submissions of other methods and applications that are of traditio
 
 Please submit a 2–4 page extended abstract that provides a detailed summary of the research problem, methodology, and key findings or expected contributions. Submissions will be reviewed by a committee of experts, and selections will be based on relevance to the workshop theme, novelty, and potential impact.
 
-📣 **Submission is open now!**
+📣 **Submission is now closed**
 
-{% include button.html text="Submit Your Abstract"  link="https://easychair.org/cfp/tsl2025" color="#0366d6" %} 
+<!-- {% include button.html text="Submit Your Abstract"  link="https://easychair.org/cfp/tsl2025" color="#0366d6" %}  -->
 
-All abstracts must be prepared using the provided templates:
+<!-- All abstracts must be prepared using the provided templates:
 * [LaTeX template](/assets/tsl2025_seoul_template.zip)
-* [Microsoft Word template](/assets/tsl2025_seoul_template.docx)
+* [Microsoft Word template](/assets/tsl2025_seoul_template.docx) -->
 
 
 # Important Dates
 
 * Abstract submission deadline: January 31, 2025
 * Notification of acceptance: February 15, 2025
-* Deadline for early registration: March 15, 2025
+* Deadline for early registration: March 31, 2025
 * Workshop: May 19–21, 2025
 
 # Scientific Committee

@@ -17,6 +17,7 @@ We are pleased to welcome you to the **GLAD Hotel Yeouido Seoul**, the official 
 ## Hotel Reservation  
 
 A special room rate is available for workshop participants. You can book your stay using the promotional code below.  
+This promotion code is valid only until May 21, the end of the workshop.
 
 🔗 [Reserve Your Room](https://www.glad-hotels.com/yeouido/index.do)  
 **Promotion Code:** `TSL2025`  
@@ -30,17 +31,17 @@ Follow the steps below to book a hotel using the promotion code:
 
 1. **Visit the official website** and click on the **ticket icon** located to the right of the **Search** button.   
 <!-- ![Step 1: Visit Website](reservation1.png) -->
-<img src="reservation1.png" alt="Step 1: Visit Website" width="500">
+<img src="/assets/reservation1.png" alt="Step 1: Visit Website" width="500">
 
 
 2. A pop-up window will appear, prompting you to enter the promotion code.  **Select "Promotion"** as the type, enter **TSL2025** as the code, and click **OK** to apply it.  
 <!-- ![Step 2: Enter Promotion Code](reservation2.png) -->
-<img src="reservation2.png" alt="Step 2: Enter Promotion Code" width="500">
+<img src="/assets/reservation2.png" alt="Step 2: Enter Promotion Code" width="500">
 
 
 3. If the promotion code is successfully applied, you will see **"Promotion Search"** as shown in the image below, and the **promotional room options** will be displayed in the search results.
 <!-- ![Step 3: Promotion Applied](reservation3.png) -->
-<img src="reservation3.png" alt="Step 3: Promotion Applied" width="500">
+<img src="/assets/reservation3.png" alt="Step 3: Promotion Applied" width="500">
 
 
 

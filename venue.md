@@ -23,6 +23,22 @@ A special room rate is available for workshop participants. You can book your st
 
 We encourage you to book early to secure your preferred accommodation.  
 
+
+## How to Book a Hotel Using the Promotion Code
+
+Follow the steps below to book a hotel using the promotion code:
+
+1. **Visit the official website** and click on the **ticket icon** located to the right of the **Search** button.   
+![Step 1: Visit Website](reservation1.png.png)
+
+2. A pop-up window will appear, prompting you to enter the promotion code.  **Select "Promotion"** as the type, enter **TSL2025** as the code, and click **OK** to apply it.  
+![Step 2: Enter Promotion Code](reservation2.png2.png)
+
+3. If the promotion code is successfully applied, you will see **"Promotion Search"** as shown in the image below, and the **promotional room options** will be displayed in the search results.
+![Step 3: Promotion Applied](reservation3.png3.png)
+
+
+
 ---
 
 ## Transportation  

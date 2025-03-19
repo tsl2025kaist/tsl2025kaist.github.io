@@ -24,7 +24,7 @@ A special room rate is available for workshop participants. You can book your st
 We encourage you to book early to secure your preferred accommodation.  
 
 
-# How to Book a Hotel Using the Promotion Code
+### How to Book a Hotel Using the Promotion Code
 
 Follow the steps below to book a hotel using the promotion code:
 

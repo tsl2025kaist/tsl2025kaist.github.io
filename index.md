@@ -35,8 +35,13 @@ The main theme of the workshop is the interplay of machine learning and operatio
 - Sang Won Kim &mdash; KAIST
 - Byung Do Chung &mdash; Yonsei University
 
-Questions related to the workshop may be sent to the general chair at <script type="text/javascript">
+<!-- Questions related to the workshop may be sent to the general chair at <script type="text/javascript">
   document.write('<a href="mailto:' + 'chkwon' + '@' + 'kaist' + '.ac.kr">' + 'chkwon' + '@' + 'kaist.ac.kr' + '</a>');
+</script>. -->
+
+Questions related to the workshop may be sent to 
+<script type="text/javascript">
+  document.write('<a href="mailto:' + 'sychoi' + '@' + 'kaist' + '.ac.kr">' + 'sychoi' + '@' + 'kaist.ac.kr' + '</a>');
 </script>.
 
 

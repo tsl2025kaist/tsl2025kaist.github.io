@@ -41,7 +41,7 @@ The main theme of the workshop is the interplay of machine learning and operatio
 
 Questions related to the workshop may be sent to 
 <script type="text/javascript">
-  document.write('<a href="mailto:' + 'sychoi' + '@' + 'kaist' + '.ac.kr">' + 'sychoi' + '@' + 'kaist.ac.kr' + '</a>');
+  document.write('<a href="mailto:' + 'sy.choi' + '@' + 'kaist' + '.ac.kr">' + 'sy.choi' + '@' + 'kaist.ac.kr' + '</a>');
 </script>.
 
 

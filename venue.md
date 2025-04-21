@@ -4,7 +4,7 @@ aside: false
 ---
 
 
-# Workshop Venue  
+## Workshop Venue  
 
 We are pleased to welcome you to the **GLAD Hotel Yeouido Seoul**, the official venue for our workshop.  
 
@@ -14,7 +14,7 @@ We are pleased to welcome you to the **GLAD Hotel Yeouido Seoul**, the official 
 
 ---
 
-## Hotel Reservation  
+### Hotel Reservation  
 
 A special room rate is available for workshop participants. You can book your stay using the promotional code below.  
 This promotion code is valid only until May 21, the end of the workshop.
@@ -25,7 +25,7 @@ This promotion code is valid only until May 21, the end of the workshop.
 We encourage you to book early to secure your preferred accommodation.  
 
 
-### How to Book a Hotel Using the Promotion Code
+**How to Book a Hotel Using the Promotion Code**
 
 Follow the steps below to book a hotel using the promotion code:
 
@@ -50,19 +50,19 @@ Follow the steps below to book a hotel using the promotion code:
 
 ---
 
-## Transportation  
+### Transportation  
 
 
-### ✈️ Distance to the Hotel  
+**✈️ Distance to the Hotel**  
 - **Incheon International Airport:** 52.5 km  
 - **Gimpo International Airport:** 13.45 km  
 
-### 🚕 By Taxi  
+**🚕 By Taxi**
 - **From Incheon International Airport to GLAD Yeouido**  
   - **General Taxi:** Approx. **KRW 50,000**  
   - **Deluxe Taxi:** Approx. **KRW 90,000**  
 
-### 🚇 By Subway  
+**🚇 By Subway**  
 - Take **Seoul Subway Line 9** and get off at **National Assembly Station**.  
 - Use **Exit 4**, and the hotel is just a short walk away.  
 

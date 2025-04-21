@@ -9,9 +9,9 @@ We are delighted to present a rich lineup of plenary and keynote talks, alongsid
 
 ---
 
-## 📌 Plenary / Keynote Speech
+## 📌 Keynote Speech
 
-### 🗣️ [Talk Title: Intelligent Mobility with Physical AI]  
+### 🗣️ Title: Intelligent Mobility with Physical AI 
 **Speaker**: Dr. Christopher Chang  
 **Affiliation**: Kakao Mobility Corp. | Senior Vice President, Next Mobility Labs Director
 

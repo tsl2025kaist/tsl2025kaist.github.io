@@ -129,6 +129,8 @@ navigation_header:
   url: /venue/
 - title: Registration
   url: /registration/
+- title: Program
+  url: /program/
 # - title: Search
 #   url: /search/
 

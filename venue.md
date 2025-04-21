@@ -4,8 +4,6 @@ aside: false
 ---
 
 
-## Workshop Venue  
-
 We are pleased to welcome you to the **GLAD Hotel Yeouido Seoul**, the official venue for our workshop.  
 
 📍 **Location:** 16, Uisadang-daero, Yeongdeungpo-gu, Seoul  

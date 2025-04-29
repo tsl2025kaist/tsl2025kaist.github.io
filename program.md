@@ -8,7 +8,6 @@ We are delighted to present a rich lineup of plenary and keynote talks, alongsid
 
 ---
 ### Timetable 
-
 <style>
 table {
   width: 100%;
@@ -38,10 +37,6 @@ th, td {
 .lunch {
   background-color: #ffffff;
 }
-.blocked {
-  background-color: #000000;
-  color: #000000;
-}
 .dinner {
   background-color: #f8d7da;
 }
@@ -50,68 +45,76 @@ th, td {
 <h1>Conference Time Table</h1>
 
 <table>
-<thead>
-<tr>
-  <th></th>
-  <th>5/19 Mon</th>
-  <th>5/20 Tue</th>
-  <th>5/21 Wed</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>9:00-10:15</td>
-  <td class="keynote">Keynote<br>(Plenary)</td>
-  <td class="logistics">Logistics(I)</td>
-  <td class="onlineopt">Online Optimization</td>
-  <td class="mobility">Mobility</td>
-</tr>
-<tr>
-  <td>10:15-10:30</td>
-  <td colspan="2" class="coffeebreak">Coffee Break</td>
-  <td colspan="2" class="coffeebreak">Coffee Break</td>
-</tr>
-<tr>
-  <td>10:30-12:00</td>
-  <td class="learning">VRP(I)</td>
-  <td class="learning">Learning(I)</td>
-  <td class="logistics">Logistics(II)</td>
-  <td class="datadriven">Data-Driven Optimization</td>
-  <td class="smartcity">Smart City</td>
-</tr>
-<tr>
-  <td>12:00-13:30</td>
-  <td colspan="2" class="lunch">Lunch</td>
-  <td colspan="2" class="lunch">Lunch</td>
-  <td class="blocked"></td>
-</tr>
-<tr>
-  <td>13:30-15:00</td>
-  <td class="learning">VRP(II)</td>
-  <td class="learning">Learning(II)</td>
-  <td class="delivery">Delivery</td>
-  <td class="network">Network Design</td>
-  <td class="blocked"></td>
-</tr>
-<tr>
-  <td>15:00-15:30</td>
-  <td colspan="2" class="coffeebreak">Coffee Break</td>
-  <td colspan="2" class="coffeebreak">Coffee Break</td>
-  <td class="blocked"></td>
-</tr>
-<tr>
-  <td>15:30-18:00</td>
-  <td colspan="2" class="tour">Palace Tour</td>
-  <td colspan="2" class="tour">National Assembly Tour</td>
-  <td class="blocked"></td>
-</tr>
-<tr>
-  <td>18:00-19:00</td>
-  <td class="blocked"></td>
-  <td colspan="2" class="dinner">Conference Dinner</td>
-  <td class="blocked"></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>5/19 Mon</th>
+      <th>5/20 Tue</th>
+      <th>5/21 Wed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00-10:15</td>
+      <td class="keynote">Keynote<br>(Plenary)</td>
+      <td class="logistics">Logistics(I)</td>
+      <td class="onlineopt">Online Optimization</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td class="learning">Learning(III)</td>
+      <td class="mobility">Mobility</td>
+    </tr>
+    <tr>
+      <td>10:15-10:30</td>
+      <td colspan="3" class="coffeebreak">Coffee Break</td>
+    </tr>
+    <tr>
+      <td>10:30-12:00</td>
+      <td class="learning">VRP(I)</td>
+      <td class="logistics">Logistics(II)</td>
+      <td class="datadriven">Data-Driven Optimization</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="learning">Learning(I)</td>
+      <td class="learning">Learning(IV)</td>
+      <td class="smartcity">Smart City</td>
+    </tr>
+    <tr>
+      <td>12:00-13:30</td>
+      <td colspan="2" class="lunch">Lunch</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13:30-15:00</td>
+      <td class="learning">VRP(II)</td>
+      <td class="delivery">Delivery</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td class="learning">Learning(II)</td>
+      <td class="network">Network Design</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:00-15:30</td>
+      <td colspan="2" class="coffeebreak">Coffee Break</td>
+      <td class="coffeebreak">Coffee Break</td>
+    </tr>
+    <tr>
+      <td>15:30-18:00</td>
+      <td colspan="2" class="tour">Palace Tour</td>
+      <td class="tour">National Assembly Tour</td>
+    </tr>
+    <tr>
+      <td>18:00-19:00</td>
+      <td></td>
+      <td colspan="2" class="dinner">Conference Dinner</td>
+    </tr>
+  </tbody>
 </table>
 
 ### 📌 Keynote Speech
@@ -123,7 +126,7 @@ In this talk, Dr. Chang will share Kakao Mobility’s strategy and vision for th
 
 **Speaker**: Dr. Christopher Chang  
 
-**Affiliation**: Kakao Mobility Corp. | Senior Vice President, Next Mobility Labs Director
+**Affiliation**: Kakao Mobility Corp.  Senior Vice President, Next Mobility Labs Director
 
 **Biography**:  
 Dr. Christopher Chang is Senior Vice President at Kakao Mobility Corp., overseeing strategy, R&D, and business development in areas such as autonomous systems, digital twins, and Urban Air Mobility (UAM). He has previously worked at Hyundai Motor, Samsung Electronics, Qualcomm, and NASA-JPL, and holds a Ph.D. in Electrical Engineering from Caltech.

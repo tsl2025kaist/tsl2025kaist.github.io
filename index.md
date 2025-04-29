@@ -22,7 +22,9 @@ The main theme of the workshop is the interplay of machine learning and operatio
 
 <!-- {% include button.html text="🌟 Call for Abstracts 🌟" link="/call_for_abstracts" color="#008080" %}  -->
 
-{% include button.html text="🌟 Registration Now Open 🌟" link="/registration" color="#008080" %} 
+<!-- {% include button.html text="🌟 Registration Open 🌟" link="/registration" color="#008080" %}  -->
+
+{% include button.html text="🌟 Program Now Available 🌟" link="/program" color="#0366d6" %} 
 
 
 <!-- 💡 Call for Abstracts 📚 🔊 📣 ✉️ 🌟 -->

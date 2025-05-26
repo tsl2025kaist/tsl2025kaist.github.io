@@ -51,6 +51,7 @@ Questions related to the workshop may be sent to
 # Sponsors
 
 <div id="sponsors">
-    <a href="https://omelet.ai" target="_blank"><img src="/assets/sponsors/omelet.png" width="300" alt="Omelet"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.nrf.re.kr/index" target="_blank"><img src="/assets/sponsors/nrf.png" width="300" alt="National Reserach Foundation of Korea"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaist.ac.kr" target="_blank"><img src="/assets/sponsors/kaist.png" width="300" alt="KAIST"></a> &nbsp;
+    <a href="https://omelet.ai" target="_blank"><img src="/assets/sponsors/omelet.png" width="300" alt="Omelet"></a> &nbsp;
+    <a href="https://www.nrf.re.kr/index" target="_blank"><img src="/assets/sponsors/nrf.png" width="300" alt="National Reserach Foundation of Korea"></a>
 </div>
